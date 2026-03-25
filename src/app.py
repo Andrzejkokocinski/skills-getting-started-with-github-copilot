@@ -110,6 +110,42 @@ activities = {
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
         "participants": ["ethan@mergington.edu", "aria@mergington.edu"]
+    },
+    "Tennis Team": {
+        "description": "Racquet skills, singles and doubles play, match preparation",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 14,
+        "participants": ["jackson@mergington.edu", "madison@mergington.edu"]
+    },
+    "Track and Field": {
+        "description": "Sprint, distance, and field event training for athletes",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 25,
+        "participants": ["victoria@mergington.edu", "lucas@mergington.edu"]
+    },
+    "Sculpture Workshop": {
+        "description": "Create three-dimensional art with clay, stone, and mixed materials",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": ["benjamin@mergington.edu", "avery@mergington.edu"]
+    },
+    "Creative Writing Club": {
+        "description": "Develop storytelling, poetry, and expressive writing skills",
+        "schedule": "Fridays, 3:00 PM - 4:30 PM",
+        "max_participants": 18,
+        "participants": ["sophie@mergington.edu", "mason@mergington.edu"]
+    },
+    "Model United Nations": {
+        "description": "Diplomacy simulation, research, and public speaking competition",
+        "schedule": "Mondays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["cameron@mergington.edu", "luna@mergington.edu"]
+    },
+    "Computer Science Club": {
+        "description": "Explore algorithms, data structures, and competitive programming",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": ["ryan@mergington.edu", "taylor@mergington.edu"]
     }
 }
 
