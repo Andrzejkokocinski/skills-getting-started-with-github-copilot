@@ -6,6 +6,7 @@
   "configurations": [
     
 
+
     {
       "name": "Launch Mergington WebApp",
       "type": "debugpy",
